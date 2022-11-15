@@ -13,7 +13,7 @@ const NavBar = () => {
         <Link href="/"> Home</Link>
       </p>
       <div className="middleText">
-          <Link href="/">HeadSets</Link>
+          <Link href="/">Her Treasure</Link>
         </div>
       <button
         type="button"
